@@ -9,7 +9,7 @@
 
 
 # Gmail
-Gmail API for Laravel 9
+Gmail API for Laravel 11
 
 You need to create an application in the [Google Console](https://console.developers.google.com/apis/credentials). Guidance [here](https://developers.google.com/gmail/api/quickstart/php#step_1_turn_on_the_api_name).
 
@@ -21,13 +21,13 @@ if you need **Laravel 8** compatibility please use version `5.0.x`.
 # Requirements
 
 * PHP ^8.0
-* Laravel 9
+* Laravel 11
 
 # Installation
 
-Add dacastro4/laravel-gmail to composer.json.
+Add dmeys/laravel-gmail to composer.json.
 
-`"dacastro4/laravel-gmail": "^6.1"`
+`"dmeys/laravel-gmail": "^6.1"`
 
 Run composer update to pull down the latest version.
 
