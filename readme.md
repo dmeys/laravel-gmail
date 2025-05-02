@@ -33,7 +33,7 @@ Run composer update to pull down the latest version.
 
 Or run
 
-`composer require dacastro4/laravel-gmail`
+`composer require dmeys/laravel-gmail`
 
 Now open up `config/app.php` and add the service provider to your providers array.
 
